@@ -18,12 +18,12 @@ avatar: https://cdn.zmescience.com/wp-content/uploads/2015/04/3.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: domrevigor@gmail.com
-  facebook: https://www.facebook.com/igordomrev
+  email: "domrevigor@gmail.com"
+  facebook: "https://www.facebook.com/igordomrev"
   flickr:
-  github: viggin543/jekyll-now
+  github:
   instagram:
-  linkedin: https://www.linkedin.com/in/igor-domrev-67471057/
+  linkedin: "https://www.linkedin.com/in/igor-domrev-67471057/"
   pinterest:
   rss: rss # just type anything here for a working RSS icon
   twitter:
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://dashboard.heroku.com/apps/advanced-react-course
+url: "https://dashboard.heroku.com/apps/advanced-react-course"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
